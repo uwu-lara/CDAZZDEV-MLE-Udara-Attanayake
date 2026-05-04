@@ -10,7 +10,7 @@ Ceylon Dazzling Dev Holding (Pvt.) Ltd.
 | Task | Domain | Status |
 |------|--------|--------|
 | Task 1 | Financial AI — LLM-Powered Equity Research Assistant | ✅ Completed |
-
+| Task 3 | Agentic Workflows — Multi-Agent Financial Research System | ✅ Completed |
 ---
 
 ## Task 1 — Financial AI Pipeline
