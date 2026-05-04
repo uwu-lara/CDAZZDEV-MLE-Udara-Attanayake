@@ -1,0 +1,25 @@
+{
+  "total_examples": 109,
+  "unique_topics": 14,
+  "topic_distribution": {
+    "fundamental analysis": 23,
+    "macroeconomics": 16,
+    "sector analysis": 11,
+    "risk": 10,
+    "technical analysis": 9,
+    "bonds": 8,
+    "options": 7,
+    "market structure": 6,
+    "corporate events": 5,
+    "ETFs": 5,
+    "earnings": 3,
+    "dividends": 3,
+    "short selling": 2,
+    "investing style": 1
+  },
+  "avg_answer_words": 134.5,
+  "min_answer_words": 87,
+  "max_answer_words": 166,
+  "unique_trigrams": 10852,
+  "lexical_diversity": 0.7404
+}
